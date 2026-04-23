@@ -1,0 +1,6 @@
+title: Tewari Lab
+description: "Clinical AI &middot; Surgical Intelligence &middot; Prostate Cancer Care"
+url: "https://urology-ai.github.io"
+baseurl: ""
+plugins:
+  - jekyll-seo-tag

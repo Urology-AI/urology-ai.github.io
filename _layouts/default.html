@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="header-top">
+          <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title }}</a>
+          <p class="site-tagline">Icahn School of Medicine<br>at Mount Sinai</p>
+          <p class="site-description">{{ site.description }}</p>
+        </div>
+
+        <nav>
+          <a href="{{ "/projects" | relative_url }}"><i class="fas fa-flask"></i> Research Projects</a>
+          <a href="{{ "/publications" | relative_url }}"><i class="far fa-file-alt"></i> Publications</a>
+          <a href="{{ "/people" | relative_url }}"><i class="fas fa-users"></i> Lab Members</a>
+          <a href="{{ "/tools" | relative_url }}"><i class="fas fa-stethoscope"></i> Clinical Tools</a>
+        </nav>
+
+        <div class="header-footer">
+          <a href="https://icahn.mssm.edu/research/urology" class="affiliation-link" target="_blank">
+            <i class="fas fa-hospital"></i> Mount Sinai Urology
+          </a>
+        </div>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+    </div>
+  </body>
+</html>
