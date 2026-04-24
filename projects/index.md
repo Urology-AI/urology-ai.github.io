@@ -12,9 +12,9 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 [Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/)
 
-## Surgical AI
+## Surgical Video Annotation Platform
 
-Computer vision and AI on robotic-assisted radical prostatectomy (RARP) video. The system identifies surgical phases, instrument interactions, and key anatomical events in the operative recording. The goal is automated surgical feedback, skill assessment, and ultimately outcome prediction from intra-operative video.
+A custom internal annotation tool for robotic surgery video, built beyond what off-the-shelf tools like CVAT offer. The platform supports zero-shot object tracking through video using segmentation masks — powered by a SAM2 (Segment Anything Model 2) backend. Annotators can select an object in a single frame and have it tracked automatically across the full video, dramatically reducing the manual effort needed to build labeled datasets for surgical AI research.
 
 ## ePSA
 
