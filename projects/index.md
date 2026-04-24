@@ -14,7 +14,7 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 ## Surgical Video Annotation Platform
 
-A custom internal annotation tool for robotic surgery video, built beyond what off-the-shelf tools like CVAT offer. The platform supports zero-shot object tracking through video using segmentation masks — powered by a SAM2 (Segment Anything Model 2) backend. Annotators can select an object in a single frame and have it tracked automatically across the full video, dramatically reducing the manual effort needed to build labeled datasets for surgical AI research.
+A custom internal annotation tool for robotic surgery video. The platform supports zero-shot object tracking through video using segmentation masks — powered by a SAM2 (Segment Anything Model 2) backend. Annotators can select an object in a single frame and have it tracked automatically across the full video, dramatically reducing the manual effort needed to build labeled datasets for surgical AI research.
 
 ## ePSA
 
