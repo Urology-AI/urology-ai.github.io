@@ -2,7 +2,11 @@
 layout: default
 ---
 
-# Lab Members
+## Current Lab Members
+* Yashaswini Agarwal
+* Daniel Ajabshir
+* Neelanchal Gahalot
+* Aditya Dixit
 
 ## Principal Investigator
 
@@ -45,7 +49,7 @@ layout: default
 * Adriana Pedraza, MD
 * Reza Roshandel, MD
 
-## Research & Data Team
+## Past Members & Contributors
 
 * Cynthia J. Knauer, RN MS AOCS
 * Parita Ratnani, MPH BDS
@@ -60,5 +64,3 @@ layout: default
 * Lily Davenport, RN
 * Cristina Pasat-Karasik, RN
 * Henry Jodka
-* Daniel Ajabshir
-* Yashaswini Agarwal
