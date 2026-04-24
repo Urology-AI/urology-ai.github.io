@@ -49,7 +49,7 @@ layout: default
 * Adriana Pedraza, MD
 * Reza Roshandel, MD
 
-## Past Members & Contributors
+## Research Contributors
 
 * Cynthia J. Knauer, RN MS AOCS
 * Parita Ratnani, MPH BDS
