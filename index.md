@@ -12,14 +12,11 @@ Meetings are open to students, trainees, and collaborators. We welcome beginners
 
 ## What do we do?
 
-We work on projects that bridge clinical research and engineering, including:
+Our work spans two areas of AI in prostate cancer care:
 
-- Risk calculators and clinical decision support tools
-- 3D digital twin tools for pre-op surgical planning
-- Computer vision on robotic-assisted radical prostatectomy videos
-- Vision-language and large language model work for surgical understanding and clinical text
-- Clinical cohort construction from Mount Sinai's research databases
-- Deployment of clinical tools for surgeons, residents, and patients
+**Clinical AI** — Tools that support decision-making before and after surgery, including risk calculators, individualized surveillance tracking, and 3D digital twin models for pre-operative planning.
+
+**Surgical AI** — Computer vision and video understanding applied to robotic prostatectomy footage, including annotation platforms, phase recognition, and vision-language models for intraoperative analysis.
 
 ## How do we do it?
 
