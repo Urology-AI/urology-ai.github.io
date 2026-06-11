@@ -18,7 +18,7 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 An electronic decision-support tool built around PSA and clinical risk factors. ePSA helps clinicians and patients understand individualized risk at key decision points — from initial diagnosis through treatment selection and post-treatment surveillance.
 
-[Launch ePSA →](https://epsa.millionstrongmen.com/)
+[Launch ePSA (Public) →](https://epsa-screening-tool.vercel.app/) · [Mount Sinai Version →](https://epsa.millionstrongmen.com/)
 
 ### Active Surveillance Tool
 
