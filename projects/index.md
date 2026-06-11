@@ -18,7 +18,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 
 ### COMPASS Digital Twin
 
-A patient-specific 3D digital twin of the prostate and surrounding anatomy, reconstructed from pre-operative MRI. COMPASS gives surgeons an interactive model of each patient's anatomy before they enter the OR — supporting surgical planning, nerve-sparing decisions, and trainee education. Integrated with surgical outcomes data to close the loop between pre-operative planning and post-operative results.
+A patient-specific 3D digital twin of the prostate and surrounding anatomy, reconstructed from pre-operative MRI. COMPASS gives surgeons an interactive model of each patient's anatomy before they enter the OR — supporting surgical planning, nerve-sparing decisions, and trainee education.
 
 *Led by **Aditya Dixit***
 
@@ -34,12 +34,6 @@ A clinical decision-support tool for men with low- to intermediate-risk prostate
 
 ### Surgery Copilot — Surgical Intelligence Platform
 
-Maps patient outcomes to surgical video, enabling outcome-aware analysis of robotic surgical technique. The platform combines a custom video annotation tool (powered by SAM2 zero-shot tracking) with structured outcome data to build the first labeled dataset linking intraoperative surgical decisions to post-operative results.
+A custom internal annotation tool for robotic surgery video. The platform supports zero-shot object tracking through video using segmentation masks — powered by a SAM2 (Segment Anything Model 2) backend. Annotators can select an object in a single frame and have it tracked automatically across the full video, dramatically reducing the manual effort needed to build labeled datasets for surgical AI research.
 
 *Led by **Neelanchal Gahalot***
-
-[Launch Annotation Tool →](https://annotation.millionstrongmen.com/)
-
----
-
-*Interested in collaborating? [Get in touch.](mailto:aditya.dixit@mountsinai.org)*
