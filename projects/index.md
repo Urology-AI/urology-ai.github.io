@@ -8,17 +8,21 @@ The following projects are under active development.
 
 ## Clinical AI
 
-### COMPASS Digital Twin
-
-A patient-specific 3D digital twin of the prostate and surrounding anatomy, reconstructed from pre-operative MRI. COMPASS gives surgeons an interactive model of each patient's anatomy before they enter the OR — supporting surgical planning, nerve-sparing decisions, and trainee education.
-
-[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/)
-
-### ePSA
+### ePSA — Electronic PSA Tool
 
 An electronic decision-support tool built around PSA and clinical risk factors. ePSA helps clinicians and patients understand individualized risk at key decision points — from initial diagnosis through treatment selection and post-treatment surveillance.
 
+*Led by **Aditya Dixit** · Created by **Daniel Ajabshir***
+
 [Launch ePSA (Public) →](https://epsa-screening-tool.vercel.app/) · [Mount Sinai Version →](https://epsa.millionstrongmen.com/)
+
+### COMPASS Digital Twin
+
+A patient-specific 3D digital twin of the prostate and surrounding anatomy, reconstructed from pre-operative MRI. COMPASS gives surgeons an interactive model of each patient's anatomy before they enter the OR — supporting surgical planning, nerve-sparing decisions, and trainee education. Integrated with surgical outcomes data to close the loop between pre-operative planning and post-operative results.
+
+*Led by **Aditya Dixit***
+
+[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/)
 
 ### Active Surveillance Tool
 
@@ -28,6 +32,14 @@ A clinical decision-support tool for men with low- to intermediate-risk prostate
 
 ## Surgical AI
 
-### Surgical Video Annotation Platform
+### Surgery Copilot — Surgical Intelligence Platform
 
-A custom internal annotation tool for robotic surgery video. The platform supports zero-shot object tracking through video using segmentation masks — powered by a SAM2 (Segment Anything Model 2) backend. Annotators can select an object in a single frame and have it tracked automatically across the full video, dramatically reducing the manual effort needed to build labeled datasets for surgical AI research.
+Maps patient outcomes to surgical video, enabling outcome-aware analysis of robotic surgical technique. The platform combines a custom video annotation tool (powered by SAM2 zero-shot tracking) with structured outcome data to build the first labeled dataset linking intraoperative surgical decisions to post-operative results.
+
+*Led by **Neelanchal Gahalot***
+
+[Launch Annotation Tool →](https://annotation.millionstrongmen.com/)
+
+---
+
+*Interested in collaborating? [Get in touch.](mailto:aditya.dixit@mountsinai.org)*
