@@ -28,6 +28,8 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 A clinical decision-support tool for men with low- to intermediate-risk prostate cancer on active surveillance. The tool tracks PSA trends, biopsy history, and imaging findings over time to help clinicians identify when a patient's disease trajectory warrants reclassification and intervention — reducing both over-treatment and missed progression.
 
+*Led by* **Aditya Dixit**
+
 [Launch Active Surveillance Tool →](https://as.millionstrongmen.com/)
 
 ## Surgical AI
