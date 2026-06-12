@@ -12,7 +12,11 @@ The following projects are under active development.
 
 An electronic decision-support tool built around PSA and clinical risk factors. ePSA helps clinicians and patients understand individualized risk at key decision points — from initial diagnosis through treatment selection and post-treatment surveillance.
 
-*Led by* **Aditya Dixit** *· Created by* **Daniel Ajabshir**
+*Developed by* **Aditya Dixit**  
+**Daniel Ajabshir** — Clinical  
+**Hannah Sur** — Literature  
+**Yashaswini Agarwal** — Analysis  
+**Henry Walker Jodka** — Collection
 
 [Launch ePSA (Mount Sinai) →](https://epsa-screening-tool.vercel.app/) · [Public Version →](https://epsa.millionstrongmen.com/)
 
@@ -20,7 +24,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 
 A patient-specific 3D digital twin of the prostate and surrounding anatomy, reconstructed from pre-operative MRI. COMPASS gives surgeons an interactive model of each patient's anatomy before they enter the OR — supporting surgical planning, nerve-sparing decisions, and trainee education.
 
-*Led by* **Aditya Dixit**
+*Developed by* **Aditya Dixit** *· Created by* **Daniel Ajabshir**
 
 [Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/)
 
@@ -28,7 +32,7 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 A clinical decision-support tool for men with low- to intermediate-risk prostate cancer on active surveillance. The tool tracks PSA trends, biopsy history, and imaging findings over time to help clinicians identify when a patient's disease trajectory warrants reclassification and intervention — reducing both over-treatment and missed progression.
 
-*Led by* **Aditya Dixit**
+*Developed by* **Aditya Dixit** · *Data by* **Yashaswini Agarwal**
 
 [Launch Active Surveillance Tool →](https://as.millionstrongmen.com/)
 
