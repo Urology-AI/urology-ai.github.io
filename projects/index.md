@@ -16,7 +16,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 **Daniel Ajabshir** — Clinical  
 **Hannah Sur** — Literature  
 **Yashaswini Agarwal** — Analysis  
-**Henry Walker Jodka** — Data collection
+**Henry Walker Jodka** — Collection
 
 [Launch ePSA (Mount Sinai) →](https://epsa-screening-tool.vercel.app/) · [Public Version →](https://epsa.millionstrongmen.com/)
 
