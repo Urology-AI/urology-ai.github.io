@@ -18,7 +18,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 **Yashaswini Agarwal** — Analysis  
 **Henry Walker Jodka** — Collection
 
-[Launch ePSA (Mount Sinai) →](https://epsa-screening-tool.vercel.app/) · [Public Version →](https://epsa.millionstrongmen.com/)
+[Launch ePSA (Mount Sinai) →](https://epsa.mssm.edu) · [Public Version →](https://epsa.millionstrongmen.com/)
 
 ### COMPASS Digital Twin
 
