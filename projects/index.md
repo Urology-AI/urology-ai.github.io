@@ -10,7 +10,7 @@ The following projects are under active development.
 
 ### ePSA — Electronic PSA Tool
 
-<img class="proj_thumb" src="{{ "/assets/img/projects/epsa/07-result.jpg" | relative_url }}" alt="">
+<img class="proj_thumb" src="{{ "/assets/img/projects/epsa/01-welcome.jpg" | relative_url }}" alt="">
 
 An electronic decision-support tool built around PSA and clinical risk factors. ePSA helps clinicians and patients understand individualized risk at key decision points — from initial diagnosis through treatment selection and post-treatment surveillance.
 
@@ -24,18 +24,17 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 
 ### e-Biopsy
 
-<img class="proj_thumb" src="{{ "/assets/img/projects/e-biopsy/05-result.jpg" | relative_url }}" alt="">
+<img class="proj_thumb" src="{{ "/assets/img/projects/e-biopsy/01-welcome.jpg" | relative_url }}" alt="">
 
 The next step after ePSA. For a man whose PSA was raised and who has had an MRI, e-Biopsy estimates the chance of a prostate cancer that needs treatment and helps him prepare for the biopsy conversation with his urologist. Three inputs (PSA, PI-RADS, and optionally prostate volume), a plain-language patient view, and a clinician view for several patients at once.
 
-*Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**  
-*Clinical fellows* **Kacagan**, **Coskun**, and **Pradhan Erena**
+*Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**
 
 [Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/) · [See how it works →]({{ "/projects/e-biopsy/" | relative_url }})
 
 ### COMPASS Digital Twin
 
-<img class="proj_thumb" src="{{ "/assets/img/projects/compass/03-predictions.jpg" | relative_url }}" alt="">
+<img class="proj_thumb" src="{{ "/assets/img/projects/compass/00-welcome.jpg" | relative_url }}" alt="">
 
 A patient-specific 3D digital twin of the prostate and surrounding anatomy, reconstructed from pre-operative MRI. COMPASS gives surgeons an interactive model of each patient's anatomy before they enter the OR — supporting surgical planning, nerve-sparing decisions, and trainee education.
 
@@ -45,7 +44,7 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 ### Active Surveillance Tool
 
-<img class="proj_thumb" src="{{ "/assets/img/projects/active-surveillance/05-result.jpg" | relative_url }}" alt="">
+<img class="proj_thumb" src="{{ "/assets/img/projects/active-surveillance/01-welcome.jpg" | relative_url }}" alt="">
 
 A clinical decision-support tool for men with low- to intermediate-risk prostate cancer on active surveillance. The tool tracks PSA trends, biopsy history, and imaging findings over time to help clinicians identify when a patient's disease trajectory warrants reclassification and intervention — reducing both over-treatment and missed progression.
 

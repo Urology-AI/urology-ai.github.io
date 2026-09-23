@@ -25,23 +25,23 @@ An example patient with Grade Group 1 disease.
 
 <div class="walkthrough">
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/active-surveillance/01-welcome.jpg" | relative_url }}" alt="Welcome" loading="lazy">
+  <a href="{{ "/assets/img/projects/active-surveillance/01-welcome.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/active-surveillance/01-welcome.jpg" | relative_url }}" alt="Welcome" loading="lazy"></a>
   <figcaption><strong>Welcome.</strong> Separate entry points for patients and clinicians.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/active-surveillance/02-pathway.jpg" | relative_url }}" alt="Clinical pathway" loading="lazy">
+  <a href="{{ "/assets/img/projects/active-surveillance/02-pathway.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/active-surveillance/02-pathway.jpg" | relative_url }}" alt="Clinical pathway" loading="lazy"></a>
   <figcaption><strong>Clinical pathway.</strong> The Tewari Active Surveillance protocol as a guided, step-by-step pathway.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/active-surveillance/03-calculator.jpg" | relative_url }}" alt="Calculator" loading="lazy">
+  <a href="{{ "/assets/img/projects/active-surveillance/03-calculator.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/active-surveillance/03-calculator.jpg" | relative_url }}" alt="Calculator" loading="lazy"></a>
   <figcaption><strong>Calculator.</strong> Biopsy and clinical data, with optional genomic, PSMA, MRI feature, and risk-factor sections.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/active-surveillance/04-patient-entered.jpg" | relative_url }}" alt="Entering the patient" loading="lazy">
+  <a href="{{ "/assets/img/projects/active-surveillance/04-patient-entered.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/active-surveillance/04-patient-entered.jpg" | relative_url }}" alt="Entering the patient" loading="lazy"></a>
   <figcaption><strong>Entering the patient.</strong> Grade Group, cores, PSA, and prostate volume; PSA density is calculated automatically.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/active-surveillance/05-result.jpg" | relative_url }}" alt="Result" loading="lazy">
+  <a href="{{ "/assets/img/projects/active-surveillance/05-result.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/active-surveillance/05-result.jpg" | relative_url }}" alt="Result" loading="lazy"></a>
   <figcaption><strong>Result.</strong> A surveillance recommendation with a clinical summary of the entered data.</figcaption>
 </figure>
 </div>

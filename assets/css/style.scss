@@ -307,11 +307,15 @@ body {
 .content-inner h3 { clear: both; }
 
 .walkthrough {
-  display: flex;
-  flex-direction: column;
-  gap: 2.25rem;
-  margin: 1.5rem 0 2rem;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1.75rem 1.25rem;
+  margin: 1.25rem 0 2rem;
   counter-reset: walk;
+}
+
+@media (max-width: 800px) {
+  .walkthrough { grid-template-columns: 1fr; }
 }
 
 .walk-step { margin: 0; }
@@ -327,8 +331,8 @@ body {
 
 .walk-step figcaption {
   counter-increment: walk;
-  margin-top: 0.7rem;
-  font-size: 0.92rem;
+  margin-top: 0.55rem;
+  font-size: 0.85rem;
   line-height: 1.55;
   color: var(--muted);
 }
