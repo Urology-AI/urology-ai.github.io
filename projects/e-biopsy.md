@@ -19,7 +19,7 @@ It asks for three things, all found on a standard PSA report and MRI report:
 It has a **patient view**, a one-minute guided flow in plain language, and a **clinician view** for reviewing several patients at once. Nothing entered is stored.
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**  
-*Clinical fellows* **Kacagan**, **Coskun**, and **Pradhan Erena**
+*Validation by* **Kacagan Coskun** and **Pradhan Erena** — Clinical Fellows
 
 [Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/)
 

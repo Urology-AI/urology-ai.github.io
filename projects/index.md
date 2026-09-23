@@ -29,7 +29,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 The next step after ePSA. For a man whose PSA was raised and who has had an MRI, e-Biopsy estimates the chance of a prostate cancer that needs treatment and helps him prepare for the biopsy conversation with his urologist. Three inputs (PSA, PI-RADS, and optionally prostate volume), a plain-language patient view, and a clinician view for several patients at once.
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**  
-*Clinical fellows* **Kacagan**, **Coskun**, and **Pradhan Erena**
+*Validation by* **Kacagan Coskun** and **Pradhan Erena** — Clinical Fellows
 
 [Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/) · [See how it works →]({{ "/projects/e-biopsy/" | relative_url }})
 
