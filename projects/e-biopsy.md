@@ -29,23 +29,23 @@ An example patient: PSA 6.2 ng/mL, PI-RADS 4, prostate volume 45 mL.
 
 <div class="walkthrough">
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/e-biopsy/01-welcome.jpg" | relative_url }}" alt="Welcome" loading="lazy">
+  <a href="{{ "/assets/img/projects/e-biopsy/01-welcome.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/e-biopsy/01-welcome.jpg" | relative_url }}" alt="Welcome" loading="lazy"></a>
   <figcaption><strong>Welcome.</strong> What e-Biopsy does and the three things it asks for.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/e-biopsy/02-psa.jpg" | relative_url }}" alt="PSA" loading="lazy">
+  <a href="{{ "/assets/img/projects/e-biopsy/02-psa.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/e-biopsy/02-psa.jpg" | relative_url }}" alt="PSA" loading="lazy"></a>
   <figcaption><strong>PSA.</strong> The most recent PSA result.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/e-biopsy/03-pirads.jpg" | relative_url }}" alt="PI-RADS" loading="lazy">
+  <a href="{{ "/assets/img/projects/e-biopsy/03-pirads.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/e-biopsy/03-pirads.jpg" | relative_url }}" alt="PI-RADS" loading="lazy"></a>
   <figcaption><strong>PI-RADS.</strong> The MRI score, with each option explained in plain language.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/e-biopsy/04-volume.jpg" | relative_url }}" alt="Prostate volume" loading="lazy">
+  <a href="{{ "/assets/img/projects/e-biopsy/04-volume.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/e-biopsy/04-volume.jpg" | relative_url }}" alt="Prostate volume" loading="lazy"></a>
   <figcaption><strong>Prostate volume.</strong> Optional; improves the estimate.</figcaption>
 </figure>
 <figure class="walk-step">
-  <img src="{{ "/assets/img/projects/e-biopsy/05-result.jpg" | relative_url }}" alt="Result" loading="lazy">
+  <a href="{{ "/assets/img/projects/e-biopsy/05-result.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/e-biopsy/05-result.jpg" | relative_url }}" alt="Result" loading="lazy"></a>
   <figcaption><strong>Result.</strong> A plain-language estimate and whether a biopsy is worth discussing.</figcaption>
 </figure>
 </div>
