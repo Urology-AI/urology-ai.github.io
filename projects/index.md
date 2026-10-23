@@ -20,7 +20,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 **Yashaswini Agarwal** — Analysis  
 **Henry Walker Jodka** — Collection
 
-[Launch ePSA Sinai →](https://epsa-sinai.urology-ai.workers.dev/) · [ePSA Screening Tool →](https://epsa.mssm.edu) · [Public Version →](https://epsa.millionstrongmen.com/) · [See how it works →]({{ "/projects/epsa/" | relative_url }})
+[Launch ePSA Sinai →](https://epsa-sinai.urology-ai.workers.dev/) · [ePSA Screening Tool →](https://epsa.mssm.edu) *(Mount Sinai sign-in)* · [Public Version →](https://epsa.millionstrongmen.com/) · [See how it works →]({{ "/projects/epsa/" | relative_url }})
 
 ### e-Biopsy
 
