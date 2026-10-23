@@ -19,7 +19,7 @@ COMPASS brings together clinical data, MRI, micro-ultrasound, PSMA PET, and biop
 
 *Software by* **Aditya Dixit** · *Models by* **Daniel Ajabshir**
 
-[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/)
+[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/) *(Mount Sinai sign-in for full use)*
 
 ## Walkthrough
 

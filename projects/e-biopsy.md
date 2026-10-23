@@ -20,7 +20,7 @@ It has a **patient view**, a one-minute guided flow in plain language, and a **c
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**
 
-[Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/)
+[Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/) *(Mount Sinai sign-in)*
 
 ## Walkthrough
 

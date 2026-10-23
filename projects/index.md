@@ -30,7 +30,7 @@ The next step after ePSA. For a man whose PSA was raised and who has had an MRI,
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**
 
-[Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/) · [See how it works →]({{ "/projects/e-biopsy/" | relative_url }})
+[Launch e-Biopsy (Mount Sinai) →](https://biopsy.urology.edu.eu.org/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/e-biopsy/" | relative_url }})
 
 ### COMPASS Digital Twin
 
@@ -40,7 +40,7 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 *Software by* **Aditya Dixit** · *Models by* **Daniel Ajabshir**
 
-[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/) · [See how it works →]({{ "/projects/compass/" | relative_url }})
+[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/) *(Mount Sinai sign-in for full use)* · [See how it works →]({{ "/projects/compass/" | relative_url }})
 
 ### Active Surveillance Tool
 
@@ -50,7 +50,7 @@ A clinical decision-support tool for men with low- to intermediate-risk prostate
 
 *Developed by* **Aditya Dixit** · *Data by* **Yashaswini Agarwal**
 
-[Launch Active Surveillance Tool →](https://as.millionstrongmen.com/) · [See how it works →]({{ "/projects/active-surveillance/" | relative_url }})
+[Launch Active Surveillance Tool →](https://as.millionstrongmen.com/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/active-surveillance/" | relative_url }})
 
 ## Surgical AI
 
