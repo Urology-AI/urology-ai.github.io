@@ -26,7 +26,7 @@ ePSA is part of the **Million Strong Men** initiative to make prostate cancer sc
 **Yashaswini Agarwal** — Analysis  
 **Henry Walker Jodka** — Collection
 
-[Launch ePSA (Mount Sinai) →](https://epsa.mssm.edu) · [Public Version →](https://epsa.millionstrongmen.com/)
+[Launch ePSA Sinai →](https://epsa-sinai.urology-ai.workers.dev/) · [ePSA Screening Tool →](https://epsa.mssm.edu) · [Public Version →](https://epsa.millionstrongmen.com/)
 
 ## Walkthrough
 
