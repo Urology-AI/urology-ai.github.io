@@ -17,7 +17,7 @@ The tool has two sides:
 
 *Developed by* **Aditya Dixit** · *Data by* **Yashaswini Agarwal**
 
-[Launch Active Surveillance Tool →](https://as.millionstrongmen.com/) *(Mount Sinai sign-in)*
+[Launch Active Surveillance Tool →](https://as.urology.edu.eu.org/) *(Mount Sinai sign-in)*
 
 ## Walkthrough
 
