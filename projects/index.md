@@ -8,6 +8,14 @@ The following projects are under active development.
 
 ## Clinical AI
 
+### Urology AI Suite
+
+<img class="proj_thumb" src="{{ "/assets/img/projects/suite/01-suite-home.jpg" | relative_url }}" alt="">
+
+One clinical pathway across the lab's prostate cancer tools. A clinician follows one patient from ePSA to e-Biopsy, then on to Active Surveillance or COMPASS, with the case filled in at each step and predicted against actual results carried along.
+
+[Open the suite →](https://suite.urology.edu.eu.org/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/urology-ai-suite/" | relative_url }})
+
 ### ePSA — Electronic PSA Tool
 
 <img class="proj_thumb" src="{{ "/assets/img/projects/epsa/01-welcome.jpg" | relative_url }}" alt="">
@@ -20,13 +28,13 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 **Yashaswini Agarwal** — Analysis  
 **Henry Walker Jodka** — Collection
 
-[Launch ePSA Sinai →](https://epsa-sinai.urology-ai.workers.dev/) · [ePSA Screening Tool →](https://epsa.mssm.edu) *(Mount Sinai sign-in)* · [Public Version →](https://epsa.millionstrongmen.com/) · [See how it works →]({{ "/projects/epsa/" | relative_url }})
+[Launch ePSA Sinai →](https://epsa.urology.edu.eu.org/clinical) · [ePSA Screening Tool →](https://epsa.mssm.edu) *(Mount Sinai sign-in)* · [Public Version →](https://epsa.millionstrongmen.com/) · [See how it works →]({{ "/projects/epsa/" | relative_url }})
 
 ### e-Biopsy
 
 <img class="proj_thumb" src="{{ "/assets/img/projects/e-biopsy/01-welcome.jpg" | relative_url }}" alt="">
 
-The next step after ePSA. For a man whose PSA was raised and who has had an MRI, e-Biopsy estimates the chance of a prostate cancer that needs treatment and helps him prepare for the biopsy conversation with his urologist. Three inputs (PSA, PI-RADS, and optionally prostate volume), a plain-language patient view, and a clinician view for several patients at once.
+The next step after ePSA. For a man whose PSA was raised and who has had an MRI, e-Biopsy estimates the chance of a prostate cancer that needs treatment and helps him prepare for the biopsy conversation with his urologist. Three inputs (PSA, PI-RADS, and optionally prostate volume), a plain-language patient view, and a clinician view that follows one patient from prediction to the actual biopsy result.
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**
 
@@ -40,7 +48,7 @@ A patient-specific 3D digital twin of the prostate and surrounding anatomy, reco
 
 *Software by* **Aditya Dixit** · *Models by* **Daniel Ajabshir**
 
-[Launch COMPASS Digital Twin →](https://urology-ai.github.io/digital-twin/) *(Mount Sinai sign-in for full use)* · [See how it works →]({{ "/projects/compass/" | relative_url }})
+[Launch COMPASS Digital Twin →](https://digital-twin.urology.edu.eu.org/clinical) *(Mount Sinai sign-in for full use)* · [See how it works →]({{ "/projects/compass/" | relative_url }})
 
 ### Active Surveillance Tool
 
@@ -50,7 +58,7 @@ A clinical decision-support tool for men with low- to intermediate-risk prostate
 
 *Developed by* **Aditya Dixit** · *Data by* **Yashaswini Agarwal**
 
-[Launch Active Surveillance Tool →](https://as.millionstrongmen.com/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/active-surveillance/" | relative_url }})
+[Launch Active Surveillance Tool →](https://as.urology.edu.eu.org/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/active-surveillance/" | relative_url }})
 
 ## Surgical AI
 

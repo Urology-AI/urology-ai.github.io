@@ -16,7 +16,7 @@ It asks for three things, all found on a standard PSA report and MRI report:
 2. The MRI **PI-RADS** score.
 3. The **prostate volume** (optional, but it makes the estimate more accurate).
 
-It has a **patient view**, a one-minute guided flow in plain language, and a **clinician view** for reviewing several patients at once. Nothing entered is stored.
+It has a **patient view**, a one-minute guided flow in plain language, and a **clinician view** that follows one patient from the prediction to the actual biopsy result, then routes the case onward in the [Urology AI Suite]({{ "/projects/urology-ai-suite/" | relative_url }}). The patient view stores nothing. The clinician view keeps de-identified patients in that browser, to compare them side by side.
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**
 
