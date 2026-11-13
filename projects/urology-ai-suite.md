@@ -10,8 +10,15 @@ permalink: /projects/urology-ai-suite/
 
 The Urology AI Suite connects the lab's prostate cancer tools into one clinical pathway. A clinician follows one patient through each tool in turn. Each tool does its own step, then opens the next one with the case already filled in.
 
-1. **Prostate Cancer Risk Assessment**: one tool in three stages. The PSA risk calculator gives baseline risk, the PSA + MRI risk calculator adds the actual PSA and MRI and compares them with what was recommended, and the PSA + MRI + biopsy risk factors stage predicts the biopsy and then compares the actual pathology with the prediction. (The first two stages run in ePSA and the third in e-Biopsy.)
-2. **Active Surveillance Navigator or COMPASS**: Grade Group 1–3 continues to Active Surveillance, and Grade Group 4–5, or a decision for surgery, continues to surgical planning in COMPASS.
+The pathway has five stages. The first three together are the **Prostate Cancer Risk Assessment**.
+
+1. **ePSA: PSA screening tool.** Baseline risk and whether a PSA is needed (mostly patient-facing).
+2. **PSA + MRI risk calculator.** Adds the actual PSA and MRI and compares them with what was recommended.
+3. **PSA + MRI + biopsy risk factors (e-Biopsy).** Predicts the biopsy, then compares the actual pathology with the prediction.
+4. **Active Surveillance Navigator.** Grade Group 1–3 continues here: watch with active surveillance, or treat.
+5. **COMPASS Digital Twin.** Grade Group 4–5, or a decision for surgery, continues to surgical planning.
+
+(Stages 1 and 2 run in ePSA, and stage 3 in e-Biopsy.)
 
 Predicted and actual results travel with the case, so every tool shows the same record. Patients can be compared side by side.
 
