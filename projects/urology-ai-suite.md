@@ -10,11 +10,13 @@ permalink: /projects/urology-ai-suite/
 
 The Urology AI Suite connects the lab's prostate cancer tools into one clinical pathway. A clinician follows one patient through each tool in turn. Each tool does its own step, then opens the next one with the case already filled in.
 
-The pathway has five stages. The first three together are the **Prostate Cancer Risk Assessment**.
+The pathway starts at a public gateway, then runs through five stages.
+
+- **Gateway: Pre-screening.** The ePSA Screening Tool is a short, public questionnaire for men before any PSA test. It saves nothing and points a man to the pathway.
 
 1. **ePSA: PSA screening tool.** Baseline risk and whether a PSA is needed (mostly patient-facing).
 2. **PSA + MRI risk calculator.** Adds the actual PSA and MRI and compares them with what was recommended.
-3. **PSA + MRI + biopsy risk factors (e-Biopsy).** Predicts the biopsy, then compares the actual pathology with the prediction.
+3. **Biopsy Risk Assessment (e-Biopsy).** PSA + MRI + biopsy risk factors: predicts the biopsy, then compares the actual pathology with the prediction.
 4. **Active Surveillance Navigator.** Grade Group 1–3 continues here: watch with active surveillance, or treat.
 5. **COMPASS Digital Twin.** Grade Group 4–5, or a decision for surgery, continues to surgical planning.
 
@@ -41,11 +43,11 @@ The patients shown are examples.
 </figure>
 <figure class="walk-step">
   <a href="{{ "/assets/img/projects/suite/03-epsa.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/suite/03-epsa.jpg" | relative_url }}" alt="ePSA" loading="lazy"></a>
-  <figcaption><strong>Prostate Cancer Risk Assessment, PSA and MRI stages (ePSA).</strong> Baseline, actual PSA and actual MRI, each compared with what was recommended, then on to the biopsy stage.</figcaption>
+  <figcaption><strong>ePSA, stages 1 and 2.</strong> Baseline, actual PSA and actual MRI, each compared with what was recommended, then on to the biopsy stage.</figcaption>
 </figure>
 <figure class="walk-step">
   <a href="{{ "/assets/img/projects/suite/04-ebiopsy.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/suite/04-ebiopsy.jpg" | relative_url }}" alt="e-Biopsy" loading="lazy"></a>
-  <figcaption><strong>Prostate Cancer Risk Assessment, biopsy stage (e-Biopsy).</strong> The prediction, the actual pathology, how they compare, and where the case goes next.</figcaption>
+  <figcaption><strong>Biopsy Risk Assessment, stage 3 (e-Biopsy).</strong> The prediction, the actual pathology, how they compare, and where the case goes next.</figcaption>
 </figure>
 <figure class="walk-step">
   <a href="{{ "/assets/img/projects/suite/05-as.jpg" | relative_url }}" target="_blank" rel="noopener"><img src="{{ "/assets/img/projects/suite/05-as.jpg" | relative_url }}" alt="Active Surveillance" loading="lazy"></a>

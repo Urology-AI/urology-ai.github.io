@@ -12,7 +12,7 @@ The following projects are under active development.
 
 <img class="proj_thumb" src="{{ "/assets/img/projects/suite/01-suite-home.jpg" | relative_url }}" alt="">
 
-One clinical pathway across the lab's prostate cancer tools. A clinician follows one patient through the Prostate Cancer Risk Assessment (PSA, then PSA + MRI, then PSA + MRI + biopsy risk factors), then on to the Active Surveillance Navigator or COMPASS, with the case filled in at each step and predicted against actual results carried along.
+One clinical pathway across the lab's prostate cancer tools. A public pre-screening gateway leads in. A clinician then follows one patient through ePSA (PSA, then PSA + MRI) and the Biopsy Risk Assessment, then on to the Active Surveillance Navigator or COMPASS, with the case filled in at each step and predicted against actual results carried along.
 
 [Open the suite →](https://suite.urology.edu.eu.org/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/urology-ai-suite/" | relative_url }})
 
@@ -34,7 +34,7 @@ An electronic decision-support tool built around PSA and clinical risk factors. 
 
 <img class="proj_thumb" src="{{ "/assets/img/projects/e-biopsy/01-welcome.jpg" | relative_url }}" alt="">
 
-The biopsy stage of the Prostate Cancer Risk Assessment, after the PSA and MRI stages in ePSA. For a man whose PSA was raised and who has had an MRI, e-Biopsy estimates the chance of a prostate cancer that needs treatment and helps him prepare for the biopsy conversation with his urologist. Three inputs (PSA, PI-RADS, and optionally prostate volume), a plain-language patient view, and a clinician view that follows one patient from prediction to the actual biopsy result.
+The Biopsy Risk Assessment (PSA + MRI + biopsy risk factors), stage 3 after ePSA. For a man whose PSA was raised and who has had an MRI, e-Biopsy estimates the chance of a prostate cancer that needs treatment and helps him prepare for the biopsy conversation with his urologist. Three inputs (PSA, PI-RADS, and optionally prostate volume), a plain-language patient view, and a clinician view that follows one patient from prediction to the actual biopsy result.
 
 *Created by* **Aditya Dixit**, **Yashaswini Agarwal Gahalot**, and **Neelanchal Gahalot**
 
