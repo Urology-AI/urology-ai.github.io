@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Active Surveillance Tool"
+title: "Active Surveillance Navigator"
 permalink: /projects/active-surveillance/
 ---
 
 [← All projects]({{ "/projects" | relative_url }})
 
-# Active Surveillance Tool
+# Active Surveillance Navigator
 
 A clinical decision-support tool for men with low- to intermediate-risk prostate cancer on active surveillance. It follows the Tewari Active Surveillance Program pathway, from the first positive biopsy through enrollment and ongoing monitoring, and helps clinicians see when a patient's disease trajectory warrants reclassification and intervention. The goal is to reduce both over-treatment and missed progression.
 
@@ -17,7 +17,7 @@ The tool has two sides:
 
 *Developed by* **Aditya Dixit** · *Data by* **Yashaswini Agarwal**
 
-[Launch Active Surveillance Tool →](https://as.urology.edu.eu.org/) *(Mount Sinai sign-in)*
+[Launch Active Surveillance Navigator →](https://as.urology.edu.eu.org/) *(Mount Sinai sign-in)*
 
 ## Walkthrough
 
