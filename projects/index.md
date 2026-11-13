@@ -12,7 +12,7 @@ The following projects are under active development.
 
 <img class="proj_thumb" src="{{ "/assets/img/projects/suite/01-suite-home.jpg" | relative_url }}" alt="">
 
-One clinical pathway across the lab's prostate cancer tools. A clinician follows one patient through the Prostate Cancer Risk Assessment (PSA, then PSA + MRI, then PSA + MRI + biopsy risk factors), then on to the Active Surveillance Navigator or COMPASS, with the case filled in at each step and predicted against actual results carried along.
+One clinical pathway across the lab's prostate cancer tools. It starts at the ePSA pre-screening tool. A clinician then follows one patient through the Prostate Cancer Risk Assessment (PSA, then PSA + MRI, then PSA + MRI + biopsy risk factors), then on to the Active Surveillance Navigator or COMPASS, with the case filled in at each step and predicted against actual results carried along.
 
 [Open the suite →](https://suite.urology.edu.eu.org/) *(Mount Sinai sign-in)* · [See how it works →]({{ "/projects/urology-ai-suite/" | relative_url }})
 
